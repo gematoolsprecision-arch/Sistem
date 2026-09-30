@@ -1,0 +1,7 @@
+{
+  "name": "Master Sinergi Bersaudara - Sistem Operasional Filter Air",
+  "description": "Sistem Manajemen Operasional Sales, Jadwal Teknisi, Pelanggan, Piutang, Omset, dan Cetak Invoice PT. Master Sinergi Bersaudara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
